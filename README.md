@@ -1,5 +1,7 @@
 # 🐍 贪吃蛇游戏 - Snake Game
 
+[English](./README_EN.md) | 中文
+
 一个使用 Nuxt 3 和 Vue 3 开发的经典贪吃蛇游戏。
 
 ## 🎮 游戏特性
